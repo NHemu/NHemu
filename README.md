@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NHemu
-- 👀 I’m interested in web development and coding
-- 🌱 I’m currently learning python,HTML,CSS..
+- 👀 I’m interested in web development ,data anlytics and coding
+- 🌱 I’m currently learning python,HTML,CSS,Data Science..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..mail nhemanthkumar93@gmail.com
 
